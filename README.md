@@ -1,2 +1,0 @@
-# bankin
-bank website
